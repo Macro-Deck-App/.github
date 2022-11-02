@@ -1,4 +1,8 @@
-## More than just a macro pad!
+![Macro Deck](https://macrodeck.org/images/Macro%20Deck%20Mockup.png)
+
+## Control and automate your Stream, Game, Smart Home... with Macro Deck!
+### Macro Deck is a open source software which can be used as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more.
+
 
 - Open source
 - Plugins
