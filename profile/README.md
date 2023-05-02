@@ -16,7 +16,7 @@
 - [Discord community](https://discord.gg/yr7TRaXum8)
 
 # Support this project
-<a href="https://www.buymeacoffee.com/suchbyte"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=suchbyte&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href='https://ko-fi.com/D1D5KXS5B' target='_blank'><img height='42' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 # Companion App
 [Repository](https://github.com/SuchByte/Macro-Deck-Client)
