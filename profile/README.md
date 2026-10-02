@@ -23,6 +23,21 @@ Macro Deck is the open-source macro pad for Windows, macOS and Linux. Build your
 - Connect OBS Studio, Home Assistant, Spotify, Twitch, Discord, Streamer.bot, Voicemeeter and more with built-in integrations
 - Use any browser on your network as a deck, including browser-based game overlays
 
+### Companion app
+
+Use your phone or tablet as a deck. The Macro Deck companion app finds your PC on the local network or connects over USB, and shows your decks with all buttons, sliders and widgets.
+
+<p align="center">
+  <img src="https://github.com/Macro-Deck-App/.github/raw/main/profile/images/companion-deck.webp" alt="A Macro Deck 3 deck with weather, clock, volume slider, music player and action buttons on a Samsung Galaxy S24 Ultra" width="480" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/Macro-Deck-App/.github/raw/main/profile/images/companion-home.webp" alt="The home screen of the Macro Deck companion app on an iPhone 17, showing a USB connection and two saved computers" width="200" />
+</p>
+
+| Platform | Download |
+| --- | --- |
+| Android | [Get it on Google Play](https://play.google.com/store/apps/details?id=app.macrodeck.companion) |
+| iOS | Coming soon |
+
 ### Repositories
 
 | Repository | |
