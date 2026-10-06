@@ -36,7 +36,7 @@ Use your phone or tablet as a deck. The Macro Deck companion app finds your PC o
 | Platform | Download |
 | --- | --- |
 | Android | [Get it on Google Play](https://play.google.com/store/apps/details?id=app.macrodeck.companion) |
-| iOS | Coming soon |
+| iOS | [Download on the App Store](https://apps.apple.com/app/id6810664560) |
 
 ### Repositories
 
