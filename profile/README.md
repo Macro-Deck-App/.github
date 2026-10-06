@@ -51,10 +51,6 @@ Use your phone or tablet as a deck. The Macro Deck companion app finds your PC o
 
 Plugins can add actions, events, variables and their own widget types. Start with the [plugin quickstart](https://docs.macro-deck.app/introduction/quickstart/) in the documentation.
 
-### Macro Deck 2
-
-Macro Deck 2 is still available for existing setups on Windows. Download it from the [Macro Deck 2 tab on the website](https://macro-deck.app/#get-started). Its companion app is on [Google Play](https://play.google.com/store/apps/details?id=com.suchbyte.macrodeck) and the [App Store](https://apps.apple.com/de/app/macro-deck-client/id6475241728).
-
 ### Community
 
 Questions, setups and feedback are welcome on [Discord](https://discord.macro-deck.app). Report bugs in the [Macro Deck issues](https://github.com/Macro-Deck-App/Macro-Deck/issues).
