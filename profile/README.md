@@ -11,7 +11,7 @@ Macro Deck is the open-source macro pad for Windows, macOS and Linux. Build your
 **Macro Deck 3 is in beta.** Download it from [macro-deck.app](https://macro-deck.app).
 
 <p align="center">
-  <img src="https://github.com/Macro-Deck-App/.github/raw/main/profile/images/deck.webp" alt="The Macro Deck 3 deck editor with buttons, a clock, a volume slider, the weather, a Spotify music player and a RAM usage graph" width="900" />
+  <img src="https://github.com/Macro-Deck-App/.github/raw/main/profile/images/deck.webp" alt="The Macro Deck 3 deck editor with buttons, a clock, a volume slider, the weather, a music player and a CPU usage graph" width="900" />
 </p>
 
 ### What you can do
