@@ -45,11 +45,12 @@ Use your phone or tablet as a deck. The Macro Deck companion app finds your PC o
 | [Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) | The Macro Deck 3 app |
 | [Macro-Deck-Plugin-Template](https://github.com/Macro-Deck-App/Macro-Deck-Plugin-Template) | Start a new plugin |
 | [Macro-Deck-Sample-Plugins](https://github.com/Macro-Deck-App/Macro-Deck-Sample-Plugins) | Worked examples of Macro Deck 3 plugins |
+| [Macro-Deck-Skills](https://github.com/Macro-Deck-App/Macro-Deck-Skills) | Agent skills that build Macro Deck plugins with coding agents |
 | [Macro-Deck-Store-Registry](https://github.com/Macro-Deck-App/Macro-Deck-Store-Registry) | The packages published in the Macro Deck Store |
 
 ### Build a plugin
 
-Plugins can add actions, events, variables and their own widget types. Start with the [plugin quickstart](https://docs.macro-deck.app/introduction/quickstart/) in the documentation.
+Plugins can add actions, events, variables and their own widget types. Start with the [plugin quickstart](https://docs.macro-deck.app/introduction/quickstart/) in the documentation. If you work with a coding agent such as Claude Code, Codex or GitHub Copilot, install the [Macro Deck agent skills](https://docs.macro-deck.app/introduction/agent-skills/).
 
 ### Community
 
